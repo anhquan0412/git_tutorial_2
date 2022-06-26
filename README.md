@@ -1,2 +1,1 @@
-# git_tutorial_2
- LIC tutorial
+# Welcome to LIC git tutorial by Quan
