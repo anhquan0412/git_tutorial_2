@@ -2,3 +2,4 @@ this is a first line
 this is a second line
 this is the boss 3rd line
 this is a 4th line
+this is thang's line
